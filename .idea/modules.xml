@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" filepath="$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carros/Carros.iml" filepath="$PROJECT_DIR$/Carros/Carros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comercio/Comercio.iml" filepath="$PROJECT_DIR$/Comercio/Comercio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompraParceladaJuros/CompraParceladaJuros.iml" filepath="$PROJECT_DIR$/CompraParceladaJuros/CompraParceladaJuros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiferentesTiposProduto/DiferentesTiposProduto.iml" filepath="$PROJECT_DIR$/DiferentesTiposProduto/DiferentesTiposProduto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escola/Escola.iml" filepath="$PROJECT_DIR$/Escola/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstaticaVsInstancia/EstaticaVsInstancia.iml" filepath="$PROJECT_DIR$/EstaticaVsInstancia/EstaticaVsInstancia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormasDeTratamento/FormasDeTratamento.iml" filepath="$PROJECT_DIR$/FormasDeTratamento/FormasDeTratamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoPalavrasEmbaralhadas/JogoPalavrasEmbaralhadas.iml" filepath="$PROJECT_DIR$/JogoPalavrasEmbaralhadas/JogoPalavrasEmbaralhadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrecoDaPizza/PrecoDaPizza.iml" filepath="$PROJECT_DIR$/PrecoDaPizza/PrecoDaPizza.iml" />
+    </modules>
+  </component>
+</project>
